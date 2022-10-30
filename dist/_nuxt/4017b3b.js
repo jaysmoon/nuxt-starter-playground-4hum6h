@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{255:function(e,n,t){"use strict";t.r(n);var l={props:["toName","pageId","label"]},o=t(42),component=Object(o.a)(l,(function(){var e=this,n=e._self._c;return n("NuxtLink",{attrs:{to:{name:e.toName,params:{pageId:e.pageId}}}},[n("span",[e._v(e._s(e.label))])])}),[],!1,null,null,null);n.default=component.exports}}]);
