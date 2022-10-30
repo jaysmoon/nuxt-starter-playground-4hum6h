@@ -53,7 +53,7 @@ export default {
     };
   },
   mounted() {
-    fetch('/bibleTestBoxed2022.json')
+    fetch('/bibleTestBoxedQA2022.json')
       .then((response) => {
         return response.json();
       })
